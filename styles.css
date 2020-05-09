@@ -1,0 +1,133 @@
+hr{
+  margin-top: 5px;
+  margin-bottom: 0.5px;
+}
+
+/* Navigation Bar */
+
+#logo{
+  margin-right: 0px;
+      margin-left: 10px;
+      padding-left: 20px;
+      margin-top: 0px;
+      width: 170px;
+
+}
+navbar-brand{
+color: Black;
+}
+.navbar-toggler{
+  background-color: #52616b;
+}
+.icon{
+  color: #e23e57;
+  height: 30px;
+    margin-top: 30px;
+    margin-bottom: 0px
+}
+.nav-item{
+  margin:2% 2%;
+}
+.icon:hover{
+  color: #ff0000;
+}
+
+.container-fluid{
+  padding: 0.1% 15%;
+}
+
+
+/* Title & Paragraph */
+.title{
+  margin: 0;
+  text-align: center;
+  padding-bottom:4.5rem;
+}
+
+.top-header{
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+  color: red;
+  padding-bottom:.5rem;
+
+}
+
+  /* Ash Bar */
+
+#ashbar{
+  background-color:#EAECEE;
+  padding-bottom: 3.5rem;
+}
+
+
+/* Rappi Prime Package */
+#offer{
+padding-top: 4.5rem;
+}
+.rappi{
+  text-align: center;
+}
+
+.background-image{
+  background: url(images/Prime.jpg);
+  background-position-x: center;
+  position: relative;
+  background-repeat: no-repeat;
+  height: 100vh;
+  max-width: 80%;
+}
+h6{
+  font-size: 1rem;
+  padding-top: 2%;
+  color: white;
+
+
+}
+.offer-header{
+  font-weight: bold;
+   color: white;
+   font-family: 'Pacifico', cursive;
+   font-size: 40px;
+   font-style: italic;
+}
+.prime{
+color: #e0ab5b;
+padding-left: 4rem;
+font-style: italic;
+font-weight: bold;
+padding-top: 0.5rem;
+}
+.rappi2{
+  text-align: center;
+  padding-top: 0.5rem;
+}
+.benefits{
+  text-align: left;
+  color:white;
+  padding-left: 6rem;
+}
+
+.btn{
+     display: block;
+      background: #FFA500;
+      text-align: center;
+      color: #fff;
+      transition: 0.3s;
+      margin-right: 0px;
+      margin-left: 500px;
+      width: 150px;
+      height: 70px;
+      padding: 5px;
+
+
+    background-position-x: center;
+    position: relative;
+    background-repeat: no-repeat;
+    max-width: 80%
+}
+
+.bottom-text{
+  padding-top: 2rem;
+
+}
